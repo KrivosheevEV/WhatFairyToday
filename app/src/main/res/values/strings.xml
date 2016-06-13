@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhatFairyToday</string>
+    <string name="imageView_Description">image</string>
+    <string name="buttonStartTest">Start !</string>
+</resources>
